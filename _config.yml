@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://antillas.github.io
+title: Personajes latinoamericanos que debes conocer
+tagline: Para profesores y alumnos de Ciencias Sociales o Español como segundo idioma 
+description: Biografías cortas como recurso didáctico para profesores y alumnos de Ciencias Sociales o Español como segundo idioma.
+paginate: 5
